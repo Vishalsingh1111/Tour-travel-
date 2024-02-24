@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vector": "cpp"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+}
